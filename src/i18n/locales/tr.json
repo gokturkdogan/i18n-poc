@@ -1,0 +1,14 @@
+{
+    "nav": {
+        "home": "Anasayfa",
+        "about": "Hakkında"
+    },
+    "home": {
+        "header": "Vue 3 I18n POC geliştirmesine hoşgeldiniz",
+        "created_by": "Bu POC çalışması {developer} tarafından geliştirilmiştir"
+    },
+    "about": {
+        "header": "Hakkında",
+        "desc": "{developer} Junior bir Frontend Developerdır."
+    }
+}

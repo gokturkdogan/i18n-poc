@@ -1,0 +1,14 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About"
+    },
+    "home": {
+        "header": "Welcome to the Vue 3 I18n POC development",
+        "created_by": "This POC was developed by {developer}."
+    },
+    "about": {
+        "header": "About",
+        "desc": "{developer} is a Junior Frontend Developer."
+    }
+}
