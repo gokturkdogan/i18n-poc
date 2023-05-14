@@ -1,4 +1,8 @@
 {
+    "locale": {
+        "en": "English",
+        "tr": "Turkish"
+    },
     "nav": {
         "home": "Home",
         "about": "About"

@@ -1,4 +1,8 @@
 {
+    "locale": {
+        "en": "İngilizce",
+        "tr": "Türkçe"
+    },
     "nav": {
         "home": "Anasayfa",
         "about": "Hakkında"

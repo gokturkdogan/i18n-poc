@@ -9,4 +9,16 @@
       </li>
     </ul>
   </nav>
+  <LanguageSwitcher></LanguageSwitcher>
 </template>
+<script>
+  import LanguageSwitcher from "../components/LanguageSwicther.vue"
+  import Tr from "../i18n/translation"
+
+  export default {
+    components: { LanguageSwitcher },
+    setup() {
+      return { Tr }
+    }
+  }
+</script>
